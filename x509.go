@@ -5,7 +5,8 @@ import (
 	"encoding/asn1"
 	"errors"
 	"fmt"
-	"go.cypherpunks.ru/gogost/v5/gost3410"
+	"github.com/pedroalbanese/gogost/gost3410"
+//	"go.cypherpunks.ru/gogost/v5/gost3410"
 )
 
 type KeyAlgorithm int
