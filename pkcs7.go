@@ -6,8 +6,7 @@ import (
 	"crypto/x509/pkix"
 	"encoding/asn1"
 	"math/big"
-	"github.com/pedroalbanese/gogost/gost3410"
-//	"go.cypherpunks.ru/gogost/v5/gost3410"
+	"github.com/Theo730/gogost/gost3410"
 )
 
 type contentInfo struct {

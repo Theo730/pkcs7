@@ -1,5 +1,5 @@
-github.com/pedroalbanese/gogost v0.0.0-20211125173335-3ed05bf26fb6 h1:DsWWfV43YXuDtAE+FK8s0bCXoW05a4Xn0smnZ8N87YA=
-github.com/pedroalbanese/gogost v0.0.0-20211125173335-3ed05bf26fb6/go.mod h1:OE57eDVJnUjrOz821fgDD0maXt4RmTXjoXTaTv7f3wM=
+github.com/Theo730/gogost v0.0.0-20211229144118-faedeafd51f0 h1:NegUdP/m0UKSLWr/AgevLoq1IcKy11ROhVQl5i9QLFM=
+github.com/Theo730/gogost v0.0.0-20211229144118-faedeafd51f0/go.mod h1:VfI74Kh9H7RrETFGhCjpSaVruUsfDAQ254We5rNEBWc=
 golang.org/x/crypto v0.0.0-20210503195802-e9a32991a82e/go.mod h1:P+XmwS30IXTQdn5tA2iutPOUgjI07+tq3H3K9MVA1s8=
 golang.org/x/net v0.0.0-20210226172049-e18ecbb05110/go.mod h1:m0MpNAwzfU5UDzcl9v0D8zg8gWTRqZa9RBIspLL5mdg=
 golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
